@@ -5,7 +5,7 @@
 - [Project Structure](#Project-Structure)
 - [Analysis & Results](#Analysis-&-Results)
 - [Recommendations](#Recommendations)
-- [Referances](#References)
+- [References](#References)
 ### Brief Overview
 By Using SQL and POWER-BI to show sales from the Toman Bikes where you will be able to see Sales trends in order to navigate the Revenue and Profit between 2021 and 2022. You will see the Incoporation os SQL abd Power BI
 ### Data Sources And Tools
